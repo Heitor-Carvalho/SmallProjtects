@@ -18,4 +18,7 @@ among others.
 - [Markdown](./Random_Walk/Random_Walk.md)
 #### * Filtros FIR
 - [Notebook](./Filtros_FIR/Filtros_FIR.ipynb)
-- [Machine](./Filtros_FIR/Filtros_FIR.md)
+- [Markdown](./Filtros_FIR/Filtros_FIR.md)
+#### * Multiplicando por constantes e somando gaussianas
+- [Notebook](./Multiplicando_por_constantes_e_somando_gaussianas/Multiplicando_por_constantes_e_somando_gaussianas.ipynb)
+- [Markdown](./Multiplicando_por_constantes_e_somando_gaussianas/Multiplicando_por_constantes_e_somando_gaussianas.md)
