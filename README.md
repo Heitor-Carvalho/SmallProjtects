@@ -22,3 +22,6 @@ among others.
 #### * Multiplicando por constantes e somando gaussianas
 - [Notebook](./Multiplicando_por_constantes_e_somando_gaussianas/Multiplicando_por_constantes_e_somando_gaussianas.ipynb)
 - [Markdown](./Multiplicando_por_constantes_e_somando_gaussianas/Multiplicando_por_constantes_e_somando_gaussianas.md)
+#### * Resolvendo sistemas lineares com método do gradiente descendente
+- [Notebook](./Resolvendo_sistemas_lineares_com_método_do_gradiente_descendente/Resolvendo_sistemas_lineares_com_método_do_gradiente_descendente.ipynb)
+- [Markdown](./Resolvendo_sistemas_lineares_com_método_do_gradiente_descendente/Resolvendo_sistemas_lineares_com_método_do_gradiente_descendente.md)
