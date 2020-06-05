@@ -30,3 +30,6 @@ among others.
 - [Markdown](./Se_pesando_em_uma_balança_incerta_com_MLE/Se_pesando_em_uma_balança_incerta_com_MLE.md)
 - [Notebook](./Se_pesando_em_balanças_incertas/Se_pesando_em_duas_balanças_incertas_com_MLE.ipynb)
 - [Markdown](./Se_pesando_em_balanças_incertas/Se_pesando_em_duas_balanças_incertas_com_MLE.md)
+#### * Estimadores MLE, MAP e MMSE
+- [Notebook](./Estimadores_MLE,_MAP_e_MMSE/Estimadores_MLE,_MAP_e_MMSE.ipynb)
+- [Markdown](./Estimadores_MLE,_MAP_e_MMSE/Estimadores_MLE,_MAP_e_MMSE.md)
