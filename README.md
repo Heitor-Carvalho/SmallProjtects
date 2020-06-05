@@ -25,3 +25,8 @@ among others.
 #### * Resolvendo sistemas lineares com método do gradiente descendente
 - [Notebook](./Resolvendo_sistemas_lineares_com_método_do_gradiente_descendente/Resolvendo_sistemas_lineares_com_método_do_gradiente_descendente.ipynb)
 - [Markdown](./Resolvendo_sistemas_lineares_com_método_do_gradiente_descendente/Resolvendo_sistemas_lineares_com_método_do_gradiente_descendente.md)
+#### * Se pesando em balanças incertas
+- [Notebook](./Se_pesando_em_uma_balança_incerta_com_MLE/Se_pesando_em_uma_balança_incerta_com_MLE.ipynb)
+- [Markdown](./Se_pesando_em_uma_balança_incerta_com_MLE/Se_pesando_em_uma_balança_incerta_com_MLE.md)
+- [Notebook](./Se_pesando_em_balanças_incertas/Se_pesando_em_duas_balanças_incertas_com_MLE.ipynb)
+- [Markdown](./Se_pesando_em_balanças_incertas/Se_pesando_em_duas_balanças_incertas_com_MLE.md)
