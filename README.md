@@ -4,8 +4,18 @@ This repo holds small projects written in python showing concepts from different
 ranging from Digital Signal Processing, Statistics, Machine Learning, Control, Telecommunication
 among others.
 
-#### * [Gaussiana 1D - Parâmetros Básicos](./Gaussiana_1D-Parametros_básicos/Gaussiana_1D-Parametros_básicos.ipynb)
-#### * [Distribuição_Normal_Multivariada](./Distribuição_Normal_Multivariada/Distribuição_Normal_Multivariada.ipynb)
-#### * [Método_do_gradiente_descendente_1D](./Método_do_gradiente_descendente_1D/Método_do_gradiente_descendente_1D.ipynb)
-#### * [Random_Walk](./Random_Walk/Random_Walk.ipynb)
-#### * [Filtros_FIR](./Filtros_FIR/Filtros_FIR.ipynb)
+#### * Gaussiana 1D - Parâmetros Básicos
+- [Notebook](./Gaussiana_1D-Parametros_básicos/Gaussiana_1D-Parametros_básicos.ipynb)
+- [Markdown](./Gaussiana_1D-Parametros_básicos/Gaussiana_1D-Parametros_básicos.md)
+#### * Distribuição Normal Multivariada
+- [Notebook](./Distribuição_Normal_Multivariada/Distribuição_Normal_Multivariada.ipynb)
+- [Markdown](./Distribuição_Normal_Multivariada/Distribuição_Normal_Multivariada.md)
+#### * Método do gradiente descendente 1D
+- [Notebook](./Método_do_gradiente_descendente_1D/Método_do_gradiente_descendente_1D.ipynb)
+- [Markdown](./Método_do_gradiente_descendente_1D/Método_do_gradiente_descendente_1D.md)
+#### * Random Walk
+- [Notebook](./Random_Walk/Random_Walk.ipynb)
+- [Markdown](./Random_Walk/Random_Walk.md)
+#### * Filtros FIR
+- [Notebook](./Filtros_FIR/Filtros_FIR.ipynb)
+- [Machine](./Filtros_FIR/Filtros_FIR.md)
