@@ -9,3 +9,5 @@ among others.
 #### * [Distribuição_Normal_Multivariada](./Distribuição_Normal_Multivariada/Distribuição_Normal_Multivariada.ipynb)
 
 #### * [Método_do_gradiente_descendente_1D](./Método_do_gradiente_descendente_1D/Método_do_gradiente_descendente_1D.ipynb)
+
+#### * [Random_Walk](./Random_Walk/Random_Walk.ipynb)
