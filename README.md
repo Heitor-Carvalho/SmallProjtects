@@ -33,3 +33,6 @@ among others.
 #### * Estimadores MLE, MAP e MMSE
 - [Notebook](./Estimadores_MLE,_MAP_e_MMSE/Estimadores_MLE,_MAP_e_MMSE.ipynb)
 - [Markdown](./Estimadores_MLE,_MAP_e_MMSE/Estimadores_MLE,_MAP_e_MMSE.md)
+#### * Estimando medidas ruidosas com teorema de bayes
+- [Notebook](./Estimando_medidas_ruidosas_com_teorema_de_bayes/Estimando_medidas_ruidosas_com_teorema_de_bayes.ipynb)
+- [Markdown](./Estimando_medidas_ruidosas_com_teorema_de_bayes/Estimando_medidas_ruidosas_com_teorema_de_bayes.md)
