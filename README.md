@@ -36,3 +36,6 @@ among others.
 #### * Estimando medidas ruidosas com teorema de bayes
 - [Notebook](./Estimando_medidas_ruidosas_com_teorema_de_bayes/Estimando_medidas_ruidosas_com_teorema_de_bayes.ipynb)
 - [Markdown](./Estimando_medidas_ruidosas_com_teorema_de_bayes/Estimando_medidas_ruidosas_com_teorema_de_bayes.md)
+#### * Regressão Linear com OLS  and ML estimates
+- [Notebook](./Regressão_Linear_com_OLS__and_ML_estimates/Regressão_Linear_com_OLS__and_ML_estimates.ipynb)
+- [Markdown](./Regressão_Linear_com_OLS__and_ML_estimates/Regressão_Linear_com_OLS__and_ML_estimates.md)
