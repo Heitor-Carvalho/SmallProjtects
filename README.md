@@ -39,3 +39,6 @@ among others.
 #### * Regressão Linear com OLS  and ML estimates
 - [Notebook](./Regressão_Linear_com_OLS__and_ML_estimates/Regressão_Linear_com_OLS__and_ML_estimates.ipynb)
 - [Markdown](./Regressão_Linear_com_OLS__and_ML_estimates/Regressão_Linear_com_OLS__and_ML_estimates.md)
+#### * Transformada de Fourier Numpy
+- [Notebook](./Transformada_Fourier_Numpy/Transformada_Fourier_Numpy.ipynb)
+- [Markdown](./Transformada_Fourier_Numpy/Transformada_Fourier_Numpy.md)
