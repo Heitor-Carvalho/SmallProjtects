@@ -42,3 +42,6 @@ among others.
 #### * Transformada de Fourier Numpy
 - [Notebook](./Transformada_Fourier_Numpy/Transformada_Fourier_Numpy.ipynb)
 - [Markdown](./Transformada_Fourier_Numpy/Transformada_Fourier_Numpy.md)
+#### * Teorema de Nyquist e Aliasing
+- [Notebook](./Teorema_de_Nyquist_e_Aliasing/Teorema_de_Nyquist_e_Aliasing.ipynb)
+- [Markdown](./Teorema_de_Nyquist_e_Aliasing/Teorema_de_Nyquist_e_Aliasing.md)
