@@ -45,3 +45,6 @@ among others.
 #### * Teorema de Nyquist e Aliasing
 - [Notebook](./Teorema_de_Nyquist_e_Aliasing/Teorema_de_Nyquist_e_Aliasing.ipynb)
 - [Markdown](./Teorema_de_Nyquist_e_Aliasing/Teorema_de_Nyquist_e_Aliasing.md)
+#### * FT, DTFT e DFT
+- [Notebook](./FT,_DTFT_e_DFT/FT,_DTFT_e_DFT.ipynb)
+- [Markdown](./FT,_DTFT_e_DFT/FT,_DTFT_e_DFT.md)
