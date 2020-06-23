@@ -21,13 +21,13 @@ Podemos verificar esse fato observando o que acontece no domínio da frequência
 
 $X(f) = \int_{-\infty}^{\infty}{x(t)e^{(-i2\pi ft)}}dt$
 
-O processo de amostragem no tempo pode ser modelado como a multiplicação do sinal $x(t)$ por um sequência de funções impulsos espaçados $\frac{1}{T_s}$. Onde $T_s$ é o tempo de amostragem.
+O processo de amostragem no tempo pode ser modelado como a multiplicação do sinal $x(t)$ por um sequência de funções impulsos espaçados $T_s$. Onde $T_s$ é o tempo de amostragem.
 
 $x_{sampled}(t) = x(t)\sum_{k=-\infty}^{k=\infty}\delta(t-kT_s)$, k inteiro
 
-Portanto o espectro do sinal amostrado é dado pela convolução do espetro original de $x(t)$ convoluido com uma sequência de impulsos espaçados $f_s = \frac{1}{T_s}$. Isso tem o efeito de replicar o espectro de $x(t)$ a cada $f_s$ unidades de frequência, esse espectro replicado pode ser descrito pela equação:
+Portanto o espectro do sinal amostrado é dado pela convolução do espetro original de $x(t)$ com a sequência de impulsos espaçados $f_s = \frac{1}{T_s}$. Isso tem o efeito de replicar o espectro de $x(t)$ a cada $f_s$ unidades de frequência, esse espectro replicado pode ser descrito pela equação:
 
-$X_{sampled}(f) = X(f-kf_s)$
+$X_{sampled}(f) = \sum_{k=-\infty}^{k=\infty}X(f-kf_s)$
 
 Caso a maior componente de frequência do nosso sinal seja B se usarmos um frequência de amostragem ($f_s$) menor que 2B, veremos que o espectro sinal amostrado ficara distorcido, pois será somado com as cópias de suas repetições, esse efeito de distorção devido a taxas de amostragem inadequada é chamado de **aliasing**. 
 
