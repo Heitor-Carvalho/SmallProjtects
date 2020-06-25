@@ -40,15 +40,15 @@ Primeiro, devemos lembrar que o o sinal $x(t)$ é contínuo e não conseguimos r
 
 Em nosso exemplo vamos definir um sinal com espectro limitado em frequência, neste tópico usaremos um sinal senoidal cuja frequência varia linearmente entre valores $f_{min}$ e $f_{max}$.  Tal sinal pode ser descrito pela equação:
 
-$y = sin(2\pi(ct^2 + f_{min}))$
+$y = sin(2\pi(ct^2 + f_{min}t))$
 
 Para confirmar que a frequência desse sinal de fato muda lienarmente vamos ver a derivada da fase da senoide:
 
-$\frac{d\phi}{dt} = 2ct$
+$\frac{d\phi}{dt} = 2ct+f_{min}$
 
 Ou seja a frequência varia linearmente de forma proporcional a constante c, se quiser que num instante $t_{final}$ a frequência seja $f_{max}$ temos:
 
-$c = \frac{f_{max}}{2t_{final}}$
+$c = \frac{f_{max}-f_{min}}{2t_{final}}$
 
 Vamos calcular e ver este sinal e seu espectro
 
@@ -69,9 +69,9 @@ fmax = 20
 
 ```python
 def get_linear_chirp(fs, fmin, fmax, tfinal):
-  freq_lin_coef = fmax/(2*tfinal)
+  freq_lin_coef = (fmax-fmin)/(2*tfinal)
   t = np.arange(0, tfinal, 1/fs)
-  return np.sin(2*np.pi*(freq_lin_coef*t**2+fmin)), t
+  return np.sin(2*np.pi*(freq_lin_coef*t**2+fmin*t)), t
 ```
 
 
@@ -160,7 +160,7 @@ axs[1, 0].grid()
 axs[1, 1].plot(repeat_spectrum(y_fftp, Fs, 30))
 axs[1, 1].set_title("Espetro amostrado a 30 Hz")
 axs[1, 1].set_ylabel("y")
-axs[1, 1].set_ylim([0, 0.3])
+axs[1, 1].set_ylim([0, 0.4])
 axs[1, 1].set_xticks([])
 axs[1, 1].grid()
 ```
