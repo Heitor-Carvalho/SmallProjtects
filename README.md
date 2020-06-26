@@ -51,4 +51,6 @@ among others.
 #### * Transformada de Fourier e Janelamento
 - [Notebook](./Transformada_de_Fourier_e_Janelamento/Transformada_de_Fourier_e_Janelamento.ipynb)
 - [Markdown](./Transformada_de_Fourier_e_Janelamento/Transformada_de_Fourier_e_Janelamento.md)
-
+#### * Short Time Fourier Transform
+- [Notebook](./Short_Time_Fourier_Transform/Short_Time_Fourier_Transform.ipynb)
+- [Markdown](./Short_Time_Fourier_Transform/Short_Time_Fourier_Transform.md)
